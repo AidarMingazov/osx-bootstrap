@@ -16,7 +16,6 @@ modules=(
   ssh
   brew
   ruby
-  node
   osx_defaults
   osx_security
   dotfiles
